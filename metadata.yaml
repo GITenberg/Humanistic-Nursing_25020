@@ -1,0 +1,29 @@
+_repo: Humanistic-Nursing_25020
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Paterson, Josephine G.
+    gutenberg_agent_id: '28344'
+    url: http://www.gutenberg.org/2009/agents/28344
+  - agent_name: Zderad, Loretta T.
+    gutenberg_agent_id: '28348'
+    url: http://www.gutenberg.org/2009/agents/28348
+description: ''
+gutenberg_bookshelf: Medicine
+gutenberg_issued: '2008-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25020'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'RT'
+- !lcsh 'Nursing -- Philosophy'
+- !lcsh 'Nursing'
+title: Humanistic Nursing
+url: http://www.gutenberg.org/ebooks/25020
